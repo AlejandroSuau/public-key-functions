@@ -1,8 +1,6 @@
 import unittest
 
-#from T2018_Practica1_Solution_Skeleton import *
 from public_key_functions import *
-
 
 class CipherRSA(unittest.TestCase):
 
